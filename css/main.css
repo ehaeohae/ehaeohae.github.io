@@ -95,6 +95,7 @@ textarea {
    ========================================================================== */
 body{
     font-family: 'Open Sans', sans-serif;
+    text-align: center;
 }
 .container {
     max-width: 960px;
